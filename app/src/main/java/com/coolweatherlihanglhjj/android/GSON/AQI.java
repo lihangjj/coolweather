@@ -1,4 +1,4 @@
-package com.coolweather.android.GSON;
+package com.coolweatherlihanglhjj.android.GSON;
 
 /**
  * Created by Administrator on 2017/1/5.

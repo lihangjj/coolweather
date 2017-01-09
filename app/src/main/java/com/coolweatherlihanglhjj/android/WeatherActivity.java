@@ -1,4 +1,4 @@
-package com.coolweather.android;
+package com.coolweatherlihanglhjj.android;
 
 import android.content.SharedPreferences;
 import android.graphics.Color;
@@ -21,12 +21,10 @@ import android.widget.Toast;
 
 import com.bumptech.glide.Glide;
 
-import com.coolweather.android.GSON.Forecast;
-import com.coolweather.android.GSON.Weather;
-import com.coolweather.android.util.HttpUtil;
-import com.coolweather.android.util.Utility;
-
-import org.w3c.dom.Text;
+import com.coolweatherlihanglhjj.android.GSON.Forecast;
+import com.coolweatherlihanglhjj.android.GSON.Weather;
+import com.coolweatherlihanglhjj.android.util.HttpUtil;
+import com.coolweatherlihanglhjj.android.util.Utility;
 
 import java.io.IOException;
 

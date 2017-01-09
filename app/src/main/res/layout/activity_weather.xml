@@ -47,7 +47,7 @@
             android:id="@+id/activity_chooser_view_content"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:name="com.coolweather.android.ChooseAreaFragment"
+            android:name="com.coolweatherlihanglhjj.android.ChooseAreaFragment"
             android:layout_gravity="start"/>
     </android.support.v4.widget.DrawerLayout>
 
